@@ -6,7 +6,7 @@ This is a program of a wall clock displayed in turboC using Graphics header <br>
 * [Images of Working model](https://github.com/Avnish-Raut/ClockPro/blob/master/README.md#images)
 * [Requirements to run it](https://github.com/Avnish-Raut/ClockPro/blob/master/README.md#requirements)
 
-## Features
+## <span style="color:blue"> Features </span>
 * The program runs with the current time
 * It has a moving pendulum stick 
 * Colour switch after each pendulum motion
