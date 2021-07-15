@@ -1,7 +1,8 @@
 # ClockPro
 This is a program of a wall clock displayed in turboC using Graphics header
+[code link](https://github.com/Avnish-Raut/ClockPro/blob/master/CLOCKPRO.C)
 # This Readme Contains
-* Features of the program
+* [Features of the program](https://github.com/Avnish-Raut/ClockPro/blob/master/README.md#Features)
 * Images of Working model
 * Requirements to run it
 
