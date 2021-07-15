@@ -11,8 +11,13 @@ This is a program of a wall clock displayed in turboC using Graphics header
 * Colour switch after each pendulum motion
 * All three hands are shown
 
-##Images
+## Images
 ![alt text](https://github.com/Avnish-Raut/ClockPro/raw/master/images/Screenshot%20(784).png "Image 1")
 ![alt text](https://github.com/Avnish-Raut/ClockPro/raw/master/images/Screenshot%20(785).png "Image 2")
+
+## Requirements
+1. Run in TurboC++ or codeblocks
+2. Change the bgi location according to your setup
+ 
 
 
