@@ -2,9 +2,9 @@
 This is a program of a wall clock displayed in turboC using Graphics header <br>
 [code link](https://github.com/Avnish-Raut/ClockPro/blob/master/CLOCKPRO.C)
 # This Readme Contains
-* [Features of the program](https://github.com/Avnish-Raut/ClockPro/blob/master/README.md#Features)
-* [Images of Working model](https://github.com/Avnish-Raut/ClockPro/blob/master/README.md#Images)
-* [Requirements to run it](https://github.com/Avnish-Raut/ClockPro/blob/master/README.md#Requirements)
+* [Features of the program](https://github.com/Avnish-Raut/ClockPro/blob/master/README.md#features)
+* [Images of Working model](https://github.com/Avnish-Raut/ClockPro/blob/master/README.md#images)
+* [Requirements to run it](https://github.com/Avnish-Raut/ClockPro/blob/master/README.md#requirements)
 
 ## Features
 * The program runs with the current time
