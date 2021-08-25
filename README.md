@@ -20,12 +20,4 @@ This is a program of a wall clock displayed in turboC using Graphics header <br>
 1. Run in TurboC++ or codeblocks
 2. Change the bgi location according to your setup
  
-##Videos
-<video width="200" height="250" controls autoplay>
-    <source src="CG Project.mp4" type="video/mp4"></source>
-    Your browser
-  </video>
-  
-  <video>
-  <iframe width="560" height="315" src="https://youtube.com/embed/w4ClQO0FFQg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></video>
 
