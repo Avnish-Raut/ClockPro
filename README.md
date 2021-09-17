@@ -4,7 +4,7 @@ This is a program of a wall clock displayed in turboC using graphics header <br>
 # This Readme Contains
 * [Features of the program](https://github.com/Avnish-Raut/ClockPro/blob/master/README.md#features)
 * [Images of Working model](https://github.com/Avnish-Raut/ClockPro/blob/master/README.md#images)
-* [Requirements to run it](https://github.com/Avnish-Raut/ClockPro/blob/master/README.md#requirements)
+* [Requirements to run it](#requirements)
 
 ## Features 
 * The program displays the current time with the help of gettime function found in dos header
